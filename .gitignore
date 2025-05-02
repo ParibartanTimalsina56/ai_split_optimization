@@ -1,0 +1,13 @@
+.env
+
+Acord 25/
+batching_and_splitting/
+Form 1040/
+Form 1040 A/
+Form 1040 B/
+Invoice/
+W9/
+tmp/*
+test/
+
+
