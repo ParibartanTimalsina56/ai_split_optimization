@@ -8,6 +8,7 @@ Form 1040 B/
 Form 1040 C/
 Form 1040 D/
 Form 1040 E/
+Utility Bills/
 Invoice/
 W9/
 tmp/*
@@ -17,6 +18,9 @@ misclassified/
 realgemini20_batching_and_splitting/
 realgemini25_batching_and_splitting/
 realgpt41_batching_and_splitting/
+older_results_no_utilitybills/
+test_overall/
+
 
 
 

@@ -1,6 +1,0 @@
-merged_output_19 [Line 176]: TRUE: Form 1040 A --> PRED: Form 1040 C
-merged_output_12 [Line 1]: TRUE: Form 1040 A --> PRED: Form 1040 C
-merged_output_12 [Line 6]: TRUE: Form 1040 A --> PRED: Form 1040 C
-merged_output_12 [Line 12]: TRUE: Form 1040 C --> PRED: Form 1040 D
-merged_output_12 [Line 13]: TRUE: Form 1040 C --> PRED: Form 1040 D
-merged_output_12 [Line 25]: TRUE: Form 1040 C --> PRED: Form 1040 D

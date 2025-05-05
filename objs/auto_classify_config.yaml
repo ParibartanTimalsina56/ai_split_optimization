@@ -29,8 +29,8 @@ system_prompt: |
     - Consider context from surrounding pages if needed
   2. **Label Assignment**:
     - Assign exactly one label per page
-    - Use the most dominant theme/content type for classification
-    - Handle transition pages based on majority content
+    - Use the most dominant theme/content type for classification 
+    - Handle transition pages based on majority content 
   3. **Consistency Check**:
     - Ensure logical flow of classifications
     - Verify classifications align with document structure
