@@ -1,0 +1,440 @@
+merged_output_19 [Line 148]: TRUE: Form 1040 C --> PRED: Form 1040 A
+merged_output_19 [Line 149]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_19 [Line 150]: TRUE: Form 1040 D --> PRED: Form 1040 E
+merged_output_19 [Line 155]: TRUE: Acord 25 --> PRED: Form 1040 D
+merged_output_19 [Line 156]: TRUE: Form 1040 A --> PRED: Form 1040 D
+merged_output_19 [Line 157]: TRUE: Form 1040 A --> PRED: Form 1040 B
+merged_output_19 [Line 161]: TRUE: W9 --> PRED: Form 1040 D
+merged_output_19 [Line 164]: TRUE: Form 1040 C --> PRED: Invoice
+merged_output_19 [Line 165]: TRUE: Form 1040 C --> PRED: Form 1040 B
+merged_output_19 [Line 188]: TRUE: Form 1040 D --> PRED: Acord 25
+merged_output_19 [Line 189]: TRUE: Form 1040 D --> PRED: Form 1040 E
+merged_output_19 [Line 191]: TRUE: Form 1040 E --> PRED: Acord 25
+merged_output_8 [Line 156]: TRUE: Acord 25 --> PRED: Form 1040 B
+merged_output_8 [Line 157]: TRUE: Form 1040 E --> PRED: Form 1040 D
+merged_output_8 [Line 158]: TRUE: Form 1040 E --> PRED: Form 1040 D
+merged_output_16 [Line 3]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 4]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 5]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 9]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 10]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 12]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 13]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 17]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 18]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 19]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 20]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 21]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 22]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 24]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 25]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 26]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 27]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 31]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 35]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 36]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 39]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 40]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 41]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 42]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 43]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 45]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 46]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 47]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 48]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 50]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 53]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 56]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 57]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 58]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 59]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 60]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 61]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 62]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 63]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 64]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 67]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 68]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 69]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 73]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 74]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 76]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 77]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 81]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 82]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 83]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 84]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 85]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 86]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 88]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 89]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 90]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 91]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 95]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 99]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 100]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 103]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 104]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 105]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 106]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 107]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 109]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 110]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 111]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 112]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 114]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 117]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 120]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 121]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 122]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 123]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 124]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 125]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 126]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 127]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 128]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 131]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 132]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 133]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_16 [Line 137]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 138]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 140]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 141]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 145]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 146]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_16 [Line 147]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 148]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_16 [Line 149]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 150]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_16 [Line 152]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 153]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_16 [Line 154]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_4 [Line 12]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 19]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 20]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 32]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 37]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 76]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 83]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 84]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 96]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 101]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 140]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 147]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 148]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_4 [Line 154]: TRUE: Form 1040 E --> PRED: Form 1040 B
+merged_output_4 [Line 158]: TRUE: Form 1040 C --> PRED: Invoice
+merged_output_4 [Line 159]: TRUE: Form 1040 C --> PRED: Form 1040 D
+merged_output_4 [Line 160]: TRUE: Form 1040 A --> PRED: Form 1040 D
+merged_output_4 [Line 161]: TRUE: Form 1040 C --> PRED: Form 1040
+merged_output_4 [Line 162]: TRUE: Form 1040 C --> PRED: Form 1040
+merged_output_4 [Line 163]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_4 [Line 164]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_4 [Line 165]: TRUE: Form 1040 A --> PRED: W9
+merged_output_4 [Line 166]: TRUE: Form 1040 C --> PRED: W9
+merged_output_4 [Line 167]: TRUE: Form 1040 C --> PRED: Form 1040 B
+merged_output_4 [Line 168]: TRUE: Invoice --> PRED: W9
+merged_output_4 [Line 169]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_4 [Line 170]: TRUE: Acord 25 --> PRED: Form 1040
+merged_output_4 [Line 171]: TRUE: Form 1040 D --> PRED: Form 1040
+merged_output_4 [Line 172]: TRUE: Form 1040 D --> PRED: Form 1040
+merged_output_4 [Line 173]: TRUE: Form 1040 --> PRED: Form 1040 D
+merged_output_4 [Line 174]: TRUE: Form 1040 --> PRED: Form 1040 D
+merged_output_4 [Line 175]: TRUE: Invoice --> PRED: Acord 25
+merged_output_4 [Line 176]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_4 [Line 177]: TRUE: Acord 25 --> PRED: Form 1040 D
+merged_output_4 [Line 178]: TRUE: Acord 25 --> PRED: Form 1040 D
+merged_output_4 [Line 179]: TRUE: Form 1040 C --> PRED: Form 1040 D
+merged_output_4 [Line 180]: TRUE: Form 1040 C --> PRED: Form 1040 D
+merged_output_4 [Line 181]: TRUE: W9 --> PRED: Form 1040 C
+merged_output_4 [Line 182]: TRUE: Form 1040 B --> PRED: Form 1040 C
+merged_output_4 [Line 183]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_4 [Line 184]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_4 [Line 185]: TRUE: Invoice --> PRED: Form 1040 E
+merged_output_4 [Line 186]: TRUE: Invoice --> PRED: Form 1040 E
+merged_output_4 [Line 187]: TRUE: Form 1040 D --> PRED: Form 1040 B
+merged_output_4 [Line 188]: TRUE: Form 1040 D --> PRED: Form 1040 E
+merged_output_4 [Line 189]: TRUE: Form 1040 --> PRED: Form 1040 E
+merged_output_4 [Line 190]: TRUE: Form 1040 --> PRED: Form 1040 E
+merged_output_3 [Line 5]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 10]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 11]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 12]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 20]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 21]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 23]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 24]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 36]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 37]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 40]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 41]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 53]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 54]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 64]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 69]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 74]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 75]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 76]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 84]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 85]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 87]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 88]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 100]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 101]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 104]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 105]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 117]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 118]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 122]: TRUE: Form 1040 B --> PRED: Invoice
+merged_output_3 [Line 128]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 133]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 138]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 139]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 140]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 148]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 149]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 151]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 152]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 164]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 165]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 168]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 169]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_3 [Line 181]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_3 [Line 182]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_15 [Line 12]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 13]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 25]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 41]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 58]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 76]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 77]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 89]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 105]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 122]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 140]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 141]: TRUE: Form 1040 A --> PRED: SCHEDULE A
+merged_output_15 [Line 145]: TRUE: Form 1040 D --> PRED: Form 1040 C
+merged_output_15 [Line 146]: TRUE: Form 1040 D --> PRED: Form 1040 C
+merged_output_15 [Line 147]: TRUE: Form 1040 E --> PRED: Invoice
+merged_output_15 [Line 148]: TRUE: Form 1040 E --> PRED: Invoice
+merged_output_15 [Line 149]: TRUE: W9 --> PRED: Form 1040 D
+merged_output_15 [Line 150]: TRUE: Invoice --> PRED: Form 1040 D
+merged_output_20 [Line 2]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 3]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 5]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 6]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 11]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 12]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 13]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 14]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 15]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 17]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 18]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 20]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 23]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 24]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 25]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 26]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 27]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 30]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 31]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 32]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 33]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 34]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 35]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 36]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 37]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 40]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 47]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 48]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 49]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 51]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 52]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 55]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 56]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 57]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 58]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 59]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 60]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 62]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 63]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 64]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 66]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 67]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 69]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 70]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 75]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 76]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 77]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 78]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 79]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 81]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 82]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 84]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 87]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 88]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 89]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 90]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 91]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 94]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 95]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 96]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 97]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 98]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 99]: TRUE: Form 1040 E --> PRED: Schedule A
+merged_output_20 [Line 100]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 101]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 104]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 111]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 112]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 113]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_20 [Line 115]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 116]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 119]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 120]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 121]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 122]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 123]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 124]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 126]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 127]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 128]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 130]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 131]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 133]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 134]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_20 [Line 139]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 140]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 141]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 142]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 143]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_20 [Line 145]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 146]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 148]: TRUE: Form 1040 B --> PRED: Schedule B
+merged_output_20 [Line 151]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_20 [Line 152]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_6 [Line 179]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_6 [Line 180]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_6 [Line 181]: TRUE: Form 1040 C --> PRED: Form 1040 D
+merged_output_6 [Line 182]: TRUE: Form 1040 C --> PRED: Form 1040 D
+merged_output_6 [Line 183]: TRUE: Acord 25 --> PRED: Form 1040 A
+merged_output_14 [Line 2]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 3]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 4]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 5]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 6]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 7]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 8]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 9]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 10]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 14]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 15]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 17]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 18]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 19]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 20]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 21]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 23]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 24]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 26]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 27]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 29]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 30]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 36]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 42]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 43]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 45]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 46]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 47]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 48]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 51]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 52]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 53]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 54]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 60]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 61]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 66]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 67]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 68]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 69]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 70]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 71]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 72]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 73]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 74]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 78]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 79]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 81]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 82]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 83]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 84]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 85]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 87]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 88]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 90]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 91]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 93]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 94]: TRUE: Form 1040 E --> PRED: Form 1040 B
+merged_output_14 [Line 99]: TRUE: W9 --> PRED: Form 1040 B
+merged_output_14 [Line 100]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 106]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 107]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 109]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 110]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 111]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 112]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 115]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 116]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 117]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 118]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 124]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 125]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 130]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 131]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 132]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 133]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 134]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 135]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 136]: TRUE: Form 1040 A --> PRED: Schedule A
+merged_output_14 [Line 137]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 138]: TRUE: Form 1040 E --> PRED: Schedule E
+merged_output_14 [Line 142]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 143]: TRUE: Form 1040 D --> PRED: Schedule D
+merged_output_14 [Line 145]: TRUE: Form 1040 E --> PRED: Schedule D
+merged_output_14 [Line 146]: TRUE: Form 1040 E --> PRED: Schedule D
+merged_output_14 [Line 147]: TRUE: Form 1040 C --> PRED: Schedule D
+merged_output_14 [Line 148]: TRUE: Form 1040 C --> PRED: Schedule D
+merged_output_14 [Line 149]: TRUE: Form 1040 A --> PRED: Form 1040 B
+merged_output_14 [Line 150]: TRUE: Invoice --> PRED: W9
+merged_output_14 [Line 151]: TRUE: Form 1040 D --> PRED: Schedule C
+merged_output_14 [Line 152]: TRUE: Form 1040 D --> PRED: Schedule C
+merged_output_14 [Line 153]: TRUE: Form 1040 B --> PRED: Schedule D
+merged_output_14 [Line 154]: TRUE: Form 1040 E --> PRED: Schedule D
+merged_output_14 [Line 155]: TRUE: Form 1040 E --> PRED: W9
+merged_output_14 [Line 156]: TRUE: W9 --> PRED: Form 1040
+merged_output_14 [Line 157]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_14 [Line 158]: TRUE: Form 1040 E --> PRED: Form 1040
+merged_output_14 [Line 160]: TRUE: Form 1040 --> PRED: Schedule C
+merged_output_14 [Line 161]: TRUE: Acord 25 --> PRED: Schedule C
+merged_output_14 [Line 162]: TRUE: Form 1040 B --> PRED: Invoice
+merged_output_14 [Line 163]: TRUE: W9 --> PRED: Form 1040
+merged_output_14 [Line 164]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_14 [Line 165]: TRUE: Acord 25 --> PRED: W9
+merged_output_14 [Line 166]: TRUE: Invoice --> PRED: Schedule A
+merged_output_14 [Line 167]: TRUE: Invoice --> PRED: Schedule E
+merged_output_14 [Line 168]: TRUE: Form 1040 --> PRED: Schedule E
+merged_output_14 [Line 169]: TRUE: Form 1040 --> PRED: Schedule C
+merged_output_14 [Line 170]: TRUE: Form 1040 C --> PRED: Schedule C
+merged_output_14 [Line 171]: TRUE: Form 1040 C --> PRED: Schedule A
+merged_output_14 [Line 172]: TRUE: Form 1040 B --> PRED: Schedule A
+merged_output_14 [Line 173]: TRUE: Form 1040 D --> PRED: Schedule E
+merged_output_14 [Line 174]: TRUE: Form 1040 D --> PRED: Schedule E
+merged_output_14 [Line 175]: TRUE: Form 1040 D --> PRED: Acord 25
+merged_output_14 [Line 176]: TRUE: Form 1040 D --> PRED: Acord 25
+merged_output_14 [Line 177]: TRUE: Form 1040 B --> PRED: Invoice
+merged_output_14 [Line 178]: TRUE: W9 --> PRED: Schedule D
+merged_output_14 [Line 179]: TRUE: Form 1040 C --> PRED: Schedule D
+merged_output_14 [Line 180]: TRUE: Form 1040 C --> PRED: Form 1040 B
+merged_output_14 [Line 181]: TRUE: Form 1040 D --> PRED: Schedule E
+merged_output_14 [Line 182]: TRUE: Form 1040 D --> PRED: Schedule E
+merged_output_14 [Line 183]: TRUE: W9 --> PRED: Schedule C

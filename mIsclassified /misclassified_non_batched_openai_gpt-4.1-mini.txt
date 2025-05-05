@@ -1,0 +1,405 @@
+merged_output_19 [Line 1]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 9]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 10]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 11]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 19]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 25]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 26]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 28]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 29]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 38]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 39]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 46]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 48]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 49]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 50]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 57]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 58]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 59]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 62]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 63]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 65]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 73]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 74]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 75]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 83]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 89]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 90]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 92]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 93]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 102]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 103]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 110]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 112]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 113]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 114]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 121]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 122]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 123]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 126]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 127]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 129]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 137]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 138]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 139]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 147]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 153]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 154]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 156]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 157]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 166]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 167]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 174]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 176]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_19 [Line 177]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 178]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 185]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_19 [Line 186]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 187]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 190]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_19 [Line 191]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_12 [Line 7]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 27]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 30]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 36]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 48]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 71]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 91]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 94]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 100]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 112]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_12 [Line 135]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 5]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 7]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 10]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 11]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 12]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 22]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 25]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 26]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 27]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 33]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 36]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 37]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 38]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 43]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 44]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 45]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 46]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 56]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 57]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 58]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 69]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 71]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 74]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 75]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 76]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 78]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_8 [Line 86]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 89]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 90]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 91]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 97]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 100]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 101]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 102]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 107]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 108]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 109]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 110]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 120]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 121]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 122]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 133]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 135]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 138]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_8 [Line 139]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 140]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 142]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_8 [Line 150]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_8 [Line 153]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 154]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_8 [Line 155]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_3 [Line 1]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 2]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 8]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 9]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 13]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 14]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 32]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 33]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 43]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 44]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 65]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 66]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 72]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 73]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 77]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 78]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 96]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 97]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 107]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 108]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 129]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 130]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 136]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 137]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 141]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 142]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 153]: TRUE: Invoice --> PRED: Form 1040 E
+merged_output_3 [Line 160]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 161]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 171]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_3 [Line 172]: TRUE: Form 1040 C --> PRED: Form 1040 E
+merged_output_13 [Line 22]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 25]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 26]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 35]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 38]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 47]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 51]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 56]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 63]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 64]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 86]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 89]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 90]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 99]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 102]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 111]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 115]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 120]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 127]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 128]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 150]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 153]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_13 [Line 154]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 163]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_13 [Line 166]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_2 [Line 111]: TRUE: Form 1040 --> PRED: W9
+merged_output_2 [Line 175]: TRUE: Form 1040 --> PRED: W9
+merged_output_2 [Line 177]: TRUE: Form 1040 A --> PRED: Form 1040
+merged_output_7 [Line 1]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 2]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 15]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 16]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 20]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 21]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 23]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 26]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 28]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 33]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 34]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 37]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 38]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 39]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 40]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 50]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 51]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 62]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 63]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 64]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 65]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 66]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 79]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 80]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 84]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 85]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 87]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 90]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 92]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 97]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 98]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 101]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 102]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 103]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 104]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 114]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 115]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 126]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 127]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 128]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 129]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 130]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 143]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 144]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_7 [Line 148]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 149]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 151]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_7 [Line 154]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 156]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_7 [Line 161]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 1]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 2]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 9]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 12]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 13]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 14]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 15]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 22]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 23]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 24]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 25]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 26]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 27]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 32]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 35]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 36]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 39]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 45]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 58]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 59]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 65]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 66]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 73]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 76]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 77]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 78]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 79]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 86]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 87]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 88]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 89]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 90]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 91]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 96]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 99]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 100]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 103]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 109]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 122]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 123]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 129]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 130]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 137]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 140]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 141]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 142]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 143]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 150]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 151]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 152]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 153]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 154]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_1 [Line 155]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 160]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_1 [Line 163]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 164]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_1 [Line 167]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 3]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 4]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 5]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 6]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 7]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 12]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 13]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 15]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 16]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 17]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 18]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 19]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 20]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 25]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 26]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 27]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 28]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 29]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 30]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 34]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 35]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 38]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 39]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 41]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 42]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 43]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 45]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 46]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 49]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 50]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 51]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 52]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 56]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 57]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 58]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 60]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 61]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 62]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 63]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 64]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 67]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 68]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 69]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 70]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 71]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 76]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 77]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 79]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 80]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 81]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 82]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 83]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 84]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 89]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 90]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 91]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 92]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 93]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 94]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 98]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 99]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 102]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 103]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 105]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 106]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 107]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 109]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 110]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 113]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 114]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 115]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 116]: TRUE: Form 1040 C --> PRED: auto_classify
+merged_output_15 [Line 120]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 121]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 122]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 124]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 125]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 126]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 127]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 128]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 131]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 132]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 133]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 134]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 135]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_15 [Line 140]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 141]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_15 [Line 143]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 144]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 145]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 146]: TRUE: Form 1040 D --> PRED: auto_classify
+merged_output_15 [Line 147]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_15 [Line 148]: TRUE: Form 1040 E --> PRED: auto_classify
+merged_output_5 [Line 3]: TRUE: Form 1040 B --> PRED: Form 1040
+merged_output_20 [Line 13]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 20]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 27]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 32]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 33]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 40]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 47]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 48]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 49]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 64]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 77]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 84]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 91]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 96]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 97]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 104]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 111]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 112]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 113]: TRUE: Form 1040 A --> PRED: auto_classify
+merged_output_20 [Line 128]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 141]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_20 [Line 148]: TRUE: Form 1040 B --> PRED: auto_classify
+merged_output_9 [Line 67]: TRUE: Form 1040 C --> PRED: Form 1040
